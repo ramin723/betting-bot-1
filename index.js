@@ -34,7 +34,7 @@ bot.onText(/\/start/, (msg) => {
         [
           {
             text: 'Launch Web App',
-            web_app: { url: 'https://2bff-209-135-170-30.ngrok-free.app' }
+            web_app: { url: 'https://1ef8-89-34-230-128.ngrok-free.app' }
           }
         ]
       ]
